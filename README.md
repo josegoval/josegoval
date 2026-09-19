@@ -2,7 +2,7 @@
 
 **Senior React Native & Frontend Engineer** at [Z1](https://z1.digital) (Seville, Spain).
 
-I build mobile and web products in TypeScript: React Native / Expo, Next.js, GraphQL, Node. Recent work includes real-time chat on the Matrix protocol, payment integrations (Braintree, RevenueCat, Stripe) and AI-integrated products.
+I build mobile and web products in TypeScript: React Native / Expo, Next.js, GraphQL, Node. Recent work includes real-time chat on the Matrix protocol, payment integrations (RevenueCat, Stripe) and AI-integrated products.
 
 ## Open source
 
