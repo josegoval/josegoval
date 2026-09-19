@@ -1,4 +1,4 @@
-# José Manuel Gómez Martínez
+# José Manuel
 
 **Senior React Native & Frontend Engineer** at [Z1](https://z1.digital) (Seville, Spain).
 
